@@ -1,0 +1,4 @@
+repository "WaterInteraction@tj_wechat_os_qy08a6bfoi4qicucf31fvqcqs@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
